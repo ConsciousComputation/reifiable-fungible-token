@@ -1,0 +1,24 @@
+{
+  "name": "reifiable-fungible-token",
+  "version": "1.0.0",
+  "description": "An NFT that you can reify (i.e., turn into a physical product).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConsciousComputation/reifiable-fungible-token.git"
+  },
+  "keywords": [
+    "blockchain",
+    "NFT",
+    "ethereum"
+  ],
+  "author": "Meredith Finkelstein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ConsciousComputation/reifiable-fungible-token/issues"
+  },
+  "homepage": "https://github.com/ConsciousComputation/reifiable-fungible-token#readme"
+}
